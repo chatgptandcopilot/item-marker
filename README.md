@@ -8,4 +8,4 @@ Highlights selected ground items with a customizable overlay in RuneLite.
 - Lightweight and performance-friendly
 
 ## Author
-Sleeps
+chatgptandcopilot
